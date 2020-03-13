@@ -1,4 +1,4 @@
-<h2>CatPhotoApp</h2>
+<h2>CatPhotoApp</h2><h2>CatPhotoApp</h2>
 <main>
   <p>Click here to view more <a href="#">cat photos</a>.</p>
 
@@ -17,6 +17,8 @@
     <li>other cats</li>
   </ol>
   <form action="/submit-cat-photo">
-    <input type="text" placeholder="cat photo URL">
+    <input type="text" placeholder="cat photo URL" required>
+    <button type="submit">Submit</button>
   </form>
 </main>
+
