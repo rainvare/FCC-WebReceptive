@@ -1,9 +1,9 @@
-<h2>CatPhotoApp</h2><h2>CatPhotoApp</h2>
+<h2>CatPhotoApp</h2><h2>CatPhotoApp</h2><h2>CatPhotoApp</h2>
 <main>
   <p>Click here to view more <a href="#">cat photos</a>.</p>
-
+  
   <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
-
+  
   <p>Things cats love:</p>
   <ul>
     <li>cat nip</li>
@@ -17,8 +17,14 @@
     <li>other cats</li>
   </ol>
   <form action="/submit-cat-photo">
+    <label><input type="radio" name="indoor-outdoor"> Indoor</label>
+    <label><input type="radio" name="indoor-outdoor"> Outdoor</label><br>
+    <label><input type="checkbox" name="personality"> Loving</label>
+    <label><input type="checkbox" name="personality"> Lazy</label>
+    <label><input type="checkbox" name="personality"> Energetic</label><br>
     <input type="text" placeholder="cat photo URL" required>
     <button type="submit">Submit</button>
   </form>
 </main>
+
 
