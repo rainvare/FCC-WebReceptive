@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+<head>
+</head>
+<body>
 <h2>CatPhotoApp</h2>
 <main>
   <p>Click here to view more <a href="#">cat photos</a>.</p>
@@ -28,6 +31,7 @@
     <input type="text" placeholder="cat photo URL" required>
     <button type="submit">Submit</button>
   </form>
+  </body>
   </html>
 
 
