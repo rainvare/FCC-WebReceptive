@@ -7,5 +7,6 @@
   <li> <a href=CCSInheritStyles >CCS Inherit Styles </a> </li>
   <li> <a href=CCSHexcode >CCS Hexcode </a> </li>
   <li> <a href=CCSPenguin> CCS Penguin </a> </li>
+  <li> <a href=ApliedVisualDesign > ApliedVisualDesign</a> </li>
  </ul>
  
