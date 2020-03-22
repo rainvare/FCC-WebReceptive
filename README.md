@@ -10,5 +10,6 @@
   <li> <a href=ApliedVisualDesign > ApliedVisualDesign</a> </li>
   <li> <a href=CCSHeart > Heart in CCS </a> </li>
   <li> <a href=CCSanimation > Propiedades de animación y @keyframes con CCS  </a> </li>
+  <li> <a href=CCSmove > Animación en movimiento continuo </a> </li>
  </ul>
  
