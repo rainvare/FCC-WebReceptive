@@ -2,7 +2,7 @@
 <h2>Ejercicios<h2>
 <ul>
   <li><a href=HTMLcats > HTMLcats</a></li>
-  <li> <a href=CSScats> CsScats </a> </li>
+  <li> <a href=CSScats> CSScats </a> </li>
   <li> <a href=CSSrellenodeunelemento > CSSrellenodeunelemento </a> </li>
   <li> <a href=CSSInheritStyles >CSS Inherit Styles </a> </li>
   <li> <a href=CSSHexcode >CSS Hexcode </a> </li>
