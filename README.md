@@ -15,6 +15,6 @@
   <li> <a href=media> Media y ventana gráfica</a> </li>
   <li> <a href=responsiveImg> Responsive image</a> </li>
   <li> <a href=responsiveTypo> Responsive tipografia</a> </li>
-  
+  <li> <a href=flexboxDisplay> RUso de display en Flexbox</a> </li>
  </ul>
  
