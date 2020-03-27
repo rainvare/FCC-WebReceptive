@@ -15,6 +15,7 @@
   <li> <a href=media> Media y ventana gráfica</a> </li>
   <li> <a href=responsiveImg> Responsive image</a> </li>
   <li> <a href=responsiveTypo> Responsive tipografia</a> </li>
-  <li> <a href=flexboxDisplay> RUso de display en Flexbox</a> </li>
+  <li> <a href=flexboxDisplay> Uso de display en Flexbox</a> </li>
+  <li> <a href=CSSGrid></a> Crear un grid con CSS </li>
  </ul>
  
